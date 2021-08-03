@@ -72,7 +72,7 @@ The resources folder contains plots, training checkpoints and raw metrics used t
 
 The following is the score plot of a single agent who managed to solve the environment in 861 episodes.
 
-![Alt text](resources/plots/maddpg.png "Title")
+![Alt text](resources/plots/maddpg_score_plot.png "Title")
 
 The multi-agent environment containing distributing the traning to 20 agents manage to solve the environment in 120 episodes.
 
